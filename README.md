@@ -1,1 +1,3 @@
 # Crowd-anomaly-Detection-using-Computer-Vision-
+
+This project presents a real-time system for detecting anomalous crowd behaviors using classical computer vision techniques. Optical flow is used to estimate the motion between consecutive frames and analyze the magnitude and divergence of movement. When the system detects sudden, high-magnitude, or irregular crowd motion, it automatically captures a frame snapshot and stores it for review by authorities. The approach eliminates the dependency on large datasets or deep learning training, making it lightweight, fast, and suitable for real-time public safety surveillance applications.
