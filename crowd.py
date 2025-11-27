@@ -7,8 +7,8 @@ import time
 
 # Telegram Configuration
 
-BOT_TOKEN = "8537222462:AAEmZyb8KB7UKy85l2HHv2xdfBkKMQ4SAGk"
-CHAT_ID = "5255314516"
+BOT_TOKEN = "***********"
+CHAT_ID = "***********"
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/sendPhoto"
 
 def send_telegram_alert(image_path, message):
